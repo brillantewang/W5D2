@@ -34,7 +34,7 @@ li:hover .badge {
 }
 
 .dropdown > li {
-  text-align: left;
+  /*text-align: left;*/
   font-size: 14px;
   border-bottom: 1px solid #aaa;
   white-space: nowrap;
